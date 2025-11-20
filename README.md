@@ -1,16 +1,19 @@
-## Hi there 👋
+✨ Olá! Seja bem-vindo ao meu perfil
 
-<!--
-**NarjoryWilson/NarjoryWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Allan, sou formado em Segurança da Informação e atualmente (2025) curso Sistemas da Informação.
+Estou na jornada para me tornar um desenvolvedor profissional, sempre explorando novas tecnologias e criando projetos que resolvem problemas reais.
 
-Here are some ideas to get you started:
+📊 Minhas estatísticas no GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NarjoryWIlson&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+💡 Primeiro projeto
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NarjoryWilson&repo=gerador-de-senhas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/NarjoryWilson/gerador-de-senhas.git)
+
+🔊 Converse comigo por aqui:
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-neres-0758862a0/) 
+
+ [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alljuniorneres/) 
+
